@@ -1,8 +1,0 @@
-pandas
-numpy
-openpyxl
-pywin32
-selenium 
-webdriver-manager
-openpyxl
-python-docx
